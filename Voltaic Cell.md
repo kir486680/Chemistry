@@ -1,0 +1,1 @@
+same as [[Galvanic Cell]]

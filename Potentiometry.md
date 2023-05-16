@@ -1,0 +1,12 @@
+
+1. **Definition:** Potentiometry is an electrochemical technique where the potential difference (voltage) between two electrodes is measured while no current is allowed to flow through the system. The measured potential can then be related to the concentration of certain [[Ions]] in solution, according to the [[Nernst Equation]]:
+
+    E = E° - (RT/nF) ln(Q)
+
+    where E is the cell potential, E° is the standard cell potential, R is the ideal gas constant, T is the temperature, n is the number of electrons transferred in the reaction, F is Faraday's constant, and Q is the reaction quotient.
+
+2. **Context:** Potentiometry is a commonly used method in analytical chemistry, particularly in the measurement of [[pH]] using a pH meter, which is essentially a potentiometer. The principle behind potentiometry, the [[Nernst Equation]], relates the measured cell potential to the concentrations of reactants and products. This makes it a powerful tool for studying a wide range of electrochemical systems, from batteries to biological cells. It's closely related to other electrochemical techniques like [[Voltammetry]], which measures current as a function of applied potential, and [[Conductometric Methods]], which measures conductivity of the solution.
+
+3. **Intuition:** Imagine you're trying to find out how much of a certain chemical is in a solution. One way to do this is by seeing how the solution reacts to an electrical potential. In a nutshell, that's what potentiometry is all about. You have a pair of electrodes, and you measure the voltage between them, but you don't let any electricity flow. This voltage can tell you something about how the chemical in the solution behaves in the presence of an electrical potential, and from that, you can figure out how much of the chemical is in there.
+
+4. **Example:** A common example of potentiometry in action is the use of a pH meter to measure the acidity of a solution. A pH meter consists of a glass electrode and a reference electrode. The glass electrode develops a potential according to the Nernst equation, which depends on the concentration of H+ ions in solution. By measuring this potential and comparing it to the potential of the reference electrode, the pH meter can calculate the pH of the solution.

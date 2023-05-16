@@ -1,0 +1,1 @@
+Reduction is a process that involves the gain of electrons
