@@ -14,11 +14,12 @@
     -   [[Nernst Equation]]
     -   [[Electrochemical Equilibrium]]
     -   [[Electrochemical Reaction Mechanisms]]
-4.  **[[Electroanalytical Techniques]]**
+    -   [[Polarization]] - [[Activation Polarization]] and [[Concentration Polarization]]
+1.  **[[Electroanalytical Techniques]]**
     -   [[Potentiometry]]
     -   [[Voltammetry]]
     -   [[Impedance Spectroscopy]]
-5.  **Practical Applications and Issues**
+2.  **Practical Applications and Issues**
     -   Electrodeposition in Industry: Plating, Nanomaterial Synthesis, etc.
     -   [[Corrosion]] and Its Prevention
     -   [[Batteries and Fuel Cells]]
