@@ -1,6 +1,6 @@
 **1. Definition:**
 
-A galvanic cell, also known as a [[Voltaic Cell]], is a device in which a chemical reaction between two substances produces an electric current. It is composed of two half-cells. Each half-cell consists of an [[Electrode]] (a strip of metal, M) and an electrolyte (a solution of the metal's ions, M^n+). The two half-cells are connected by a [[Salt Bridge]] or a porous disc, allowing ions to flow without mixing the solutions. The half-cells are also connected by a wire, allowing electrons to flow.
+A galvanic cell, also known as a [[Voltaic Cell]], is a device in which a chemical reaction between two substances produces an electric current. It is composed of two half-cells. Each half-cell consists of an [[Electrode]] (a strip of metal, M) and an [[Electrolyte]] (a solution of the metal's ions, M^n+). The two half-cells are connected by a [[Salt Bridge]] or a porous disc, allowing ions to flow without mixing the solutions. The half-cells are also connected by a wire, allowing electrons to flow.
 
 The cell potential, E, is given by the [[Nernst Equation]]:
 
