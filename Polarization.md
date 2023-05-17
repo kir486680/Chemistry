@@ -1,28 +1,21 @@
 
-**Definition:**
+1. **Definition**: Polarization in electrochemistry refers to the deviation from the equilibrium potential of an electrode during electrolysis. It's a phenomenon that occurs when current is passed through an electrochemical cell, leading to changes in the electrode potentials. There are two main types of polarization: activation and concentration polarization. 
+ 	[[Activation Polarization]] is associated with the energy barrier that must be overcome for a reaction to occur. It can be expressed as:
 
-Polarization in electrochemistry refers to the deviation from the equilibrium potential of an electrode during electrolysis. It is caused by a change in the concentration of reactants or products, the resistance of the electrode, or a change in the rate of the electrochemical reaction, among other factors. 
+    $\eta_a = \pm \frac{RT}{\alpha nF} \ln \left( \frac{i}{i_0} \right)$
 
-**Context:**
+    where \( $\eta_a$\) is the activation overpotential, \( R \) is the gas constant, \( T \) is the temperature, \( $\alpha$ \) is the charge transfer coefficient, \( n \) is the number of electrons transferred in the reaction, \( F \) is the Faraday constant, \( i \) is the current density, and \( i_0 \) is the exchange current density.
 
-Polarization is a crucial concept in electrochemistry, affecting the performance and efficiency of electrochemical devices such as batteries, fuel cells, and electrolysis systems. Understanding and controlling polarization can help to optimize these systems, ensuring that they operate efficiently and effectively.
+    [[Concentration Polarization]] occurs when there is a gradient in the concentration of reactants or products across the electrode/electrolyte interface. It can be expressed as:
 
-**Intuition:**
+     $\eta_c = \pm \frac{RT}{nF} \ln \left( 1 - \frac{i}{i_{lim}} \right)$ 
 
-Think about trying to drive on a road covered in snow. Ideally, your car should move smoothly (the equilibrium potential), but the snow (polarization) makes it harder to drive, slowing you down and making the journey less efficient. 
+    where \( \eta_c \) is the concentration overpotential and \( i_{lim} \) is the limiting current density.
 
-**Example:**
+2. **Context**: Polarization is a crucial concept in electrochemistry as it influences the efficiency of electrochemical reactions. Understanding polarization is essential for optimizing electrochemical systems, such as fuel cells, batteries, and electrolysis cells. Activation polarization is related to the [[Electrochemical Kinetics]], while concentration polarization is associated with mass transport phenomena. Both types of polarization contribute to the overall overpotential, which is the difference between the actual potential and the equilibrium potential of an electrode.
 
-Let's take a fuel cell as an example. In an ideal scenario, the voltage output of the fuel cell would be equal to the theoretical cell voltage. However, in reality, the actual output voltage is usually less than the theoretical cell voltage. This decrease is due to polarization.
+3. **Intuition**: You can think of activation polarization as a hill that needs to be climbed for the reaction to occur. The higher the hill (activation energy), the harder it is for the reaction to proceed, and the greater the activation polarization. On the other hand, concentration polarization can be thought of as a traffic jam. If the reactants can't reach the electrode surface fast enough, or if the products can't move away quickly enough, this creates a "traffic jam" that slows down the reaction, leading to concentration polarization.
 
-Polarization can be categorized into three types: activation polarization, concentration polarization, and ohmic polarization.
+4. **Example**: In the context of a fuel cell, activation polarization might occur if the reaction rate at the electrode is slow, requiring a higher potential to drive the reaction. Concentration polarization could occur if the fuel is not supplied fast enough to the anode, or if the product water is not removed quickly enough from the cathode. Both types of polarization would result in a decrease in the cell voltage and efficiency.
 
-1. **[[Activation Polarization]]** is due to the energy barrier that must be overcome for the reaction to occur.
-
-2. **[[Concentration Polarization]]** occurs when there is a change in the concentration of the reactants or products at the electrode surface during operation, leading to a deviation from the equilibrium potential.
-
-3. **[[Ohmic Polarization]]** arises from the resistance to the flow of ions in the electrolyte and electrons in the electrode material.
-
-Each of these forms of polarization reduces the efficiency of the fuel cell, and understanding them can help in the design of more efficient electrochemical systems. 
-
-In the context of electrodeposition, understanding polarization is important as it can affect the quality of the deposited layer. For instance, high levels of polarization can lead to non-uniform deposition or the formation of unwanted side products. By controlling the conditions of the deposition process (like the current density or the composition of the electrolyte), we can minimize polarization and improve the quality of the electrodeposition.
+[^10.1007/s41918-022-00160-8^]: https://dx.doi.org/10.1007/s41918-022-00160-8
