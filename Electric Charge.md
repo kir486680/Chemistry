@@ -1,0 +1,1 @@
+Electric charge is a fundamental property of matter that determines its electromagnetic interactions. Charges can be positive (+) or negative (-), and like charges repel each other while opposite charges attract.

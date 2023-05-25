@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "714cdbf803eabc32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrodeposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43c831aa839fc3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrodeposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e85f1e701d621e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working Electrode.md",
+                "file": "Coulomb's Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Electrode.md",
+                "file": "Electrostatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "add8c1a3b3c9cb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrostatic Potential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e294d7d05bed85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electric Flux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d121762bef3c5839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electric Flux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "0a3f04e96cbe3de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58072b8e69354d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrostatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +131,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ae4378a6b2e46e20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrodeposition.md",
+                "file": "Electrostatic Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrodeposition.md",
+                "file": "Electrostatic Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrodeposition.md"
+                "file": "Electrostatic Potential.md"
               }
             }
           }
@@ -183,19 +221,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "775cabdbb6832ace",
+  "active": "add8c1a3b3c9cb95",
   "lastOpenFiles": [
-    "Counter Electrode.md",
-    "Electrodeposition.md",
+    "Untitled 1.md",
+    "Electrostatic Potential.md",
+    "Electrostatics.md",
+    "Faraday’s Laws of Electrolysis.md",
+    "Electrostatic Force.md",
+    "Electric Flux.md",
+    "Poisson Equation.md",
+    "Gausses Law.md",
+    "Charge Density.md",
+    "Electric Field.md",
+    "Electric Charge.md",
+    "Coulomb's Law.md",
+    "Electric Work.md",
+    "Potential Energy.md",
+    "Surface Charge Density.md",
+    "Volume Charge Density.md",
+    "Electrolytic Cell.md",
     "Reference Electrode.md",
     "Working Electrode.md",
+    "Untitled.md",
+    "Questions.md",
+    "Electrode Potentials.md",
+    "Electrodeposition.md",
+    "Counter Electrode.md",
     "Potentiostat.md",
-    "Electrochemistry Concept Map.md",
-    "Electrochemical Cell.md",
-    "Redox Reactions.md",
-    "Electrochemical Reaction Mechanisms.md",
-    "Electrolytic Cell.md",
-    "Galvanic Cell.md",
-    "Voltaic Cell.md"
+    "Electrochemistry Concept Map.md"
   ]
 }
