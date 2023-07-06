@@ -1,0 +1,4 @@
+- materials in which electrons are mobile species 
+- can be used to sense or control the potential of electrons 
+- usually metallic(sometimes semiconductors)
+- Conductivity on the order of 10^2 to 10^4 S/cm

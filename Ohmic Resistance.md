@@ -1,0 +1,3 @@
+This is the resistance to the flow of electric current in the electrolyte due to its inherent resistivity. It obeys Ohm's law, which states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to the resistance. This is similar to the resistance you would find in a wire or any other conductive material. The ohmic resistance depends on the nature and concentration of the ions in the electrolyte, as well as the distance between the electrodes. For example, an electrolyte with a high concentration of ions, or an electrolyte with ions that have high mobility, will have a lower ohmic resistance.
+
+Could be ignored if the current is around 1mA.

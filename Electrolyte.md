@@ -1,0 +1,4 @@
+- Mobile Species are ions; overall electroneutral 
+- Free movement of electrons blocked. Electrons are forced to go through the wire 
+- Include: molten salts in solutions, some ionic solids 
+- [[Conductivity]] on the order of 10^-4 to 10^-1 S/cm

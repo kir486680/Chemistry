@@ -1,5 +1,5 @@
 
-Gauss's Law, formulated by German mathematician and physicist Carl Friedrich Gauss, is a fundamental principle in electromagnetism that relates the electric flux passing through a closed surface to the total charge enclosed by that surface. It provides a powerful tool for calculating electric fields in situations with high symmetry.
+ Relates the electric flux passing through a closed surface to the total charge enclosed by that surface. It provides a powerful tool for calculating electric fields in situations with high symmetry.
 
 Gauss's Law states that the electric flux (Φ) passing through a closed surface is equal to the total electric charge (Q) enclosed by that surface divided by the permittivity of free space (ε₀). Mathematically, it can be expressed as:
 
